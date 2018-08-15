@@ -1,0 +1,10 @@
+08.08.2018 08:53:38
+Error (1062) Duplicate entry '5-1' for key 'PRIMARY'
+INSERT INTO ok_orders_labels SET order_id=5, label_id='1'
+----------------------
+
+08.08.2018 08:53:45
+Error (1062) Duplicate entry '5-1' for key 'PRIMARY'
+INSERT INTO ok_orders_labels SET order_id=5, label_id='1'
+----------------------
+
